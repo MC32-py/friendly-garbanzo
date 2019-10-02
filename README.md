@@ -1,2 +1,3 @@
 # friendly-garbanzo
-Practice and small projects
+a = hello
+print(a)
